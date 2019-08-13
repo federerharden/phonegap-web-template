@@ -3,9 +3,9 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
     
-    <name>布丁布丁吃什麼？</name>
-    <description>這顆布丁是在無聊的世界中找尋樂趣的一種不能吃的食物。喜歡動漫畫、喜歡遊戲、喜歡程式、喜歡跟世間脫節的生活步調中，撰寫blog──布丁布丁吃什麼？ http://blog.pulipuli.info/</description>
-    <author href="http://blog.pulipuli.info" email="pulipuli.chen@gmail.com">布丁布丁吃布丁</author>
+    <name>滄浪詩話__特級大師的部落格</name>
+    <description>很高興能在這個APP與您相遇，這個小程式是搭配知名體育分析文專欄網站:滄浪詩話__特級大師的部落格所創立。希望讓讀者在第一時間就能看到我的新文章，也期盼這裡能變成對於體育賽事有熱忱的朋友們一個悠閒的討論空間 http://federerharden.pixnet.net/blog/</description>
+    <author href="http://federerharden.pixnet.net/blog/">滄浪詩話__特級大師的部落格</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
