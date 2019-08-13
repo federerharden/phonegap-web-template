@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.federerharden.info" version="1.0.0">
     
     <name>滄浪詩話__特級大師的部落格</name>
     <description>很高興能在這個APP與您相遇，這個小程式是搭配知名體育分析文專欄網站:滄浪詩話__特級大師的部落格所創立。希望讓讀者在第一時間就能看到我的新文章，也期盼這裡能變成對於體育賽事有熱忱的朋友們一個悠閒的討論空間 http://federerharden.pixnet.net/blog/</description>
